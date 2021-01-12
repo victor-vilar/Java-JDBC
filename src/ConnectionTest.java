@@ -9,9 +9,6 @@ public class ConnectionTest {
 
 		Connection connection = CreateConnectionFactory.buildConnection();
 	
-	
-	
-	
 		connection.close();
 	}
 
